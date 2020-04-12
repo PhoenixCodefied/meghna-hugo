@@ -17,4 +17,4 @@ contact:
   - icon: ti-email
     info: 'Email: hello@meghna.com'
   map:
-    enable: true
+    enable: false
