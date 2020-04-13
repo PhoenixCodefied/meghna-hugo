@@ -50,8 +50,8 @@ URL = "https://themefisher.com/"
 name = "Themefisher"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = ""
+description = ""
 google_analitycs_id = ""
 logo = "images/Sourav Sen-logo.png"
 post_share = false
