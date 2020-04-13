@@ -53,7 +53,7 @@ weight = 8
 author = ""
 description = ""
 google_analitycs_id = ""
-logo = "images/Sourav Sen-logo.png"
+logo = "images/Sourav Sen-logo-white.png"
 post_share = false
 [params.map]
 enable = false
